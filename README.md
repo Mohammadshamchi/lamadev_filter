@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lamadev_filter
 Lamadev_youtube_searching_filter
 =======
